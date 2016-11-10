@@ -5,5 +5,21 @@
   <%= @user.name %>
 </p>
 
+
+<% @user.lottery_infos.each do |lottery_info| %>
+<div class="card">
+	<div class="card-block">
+		<h4 class="card-title"><%= lottery_info.store %></h4>
+		<p class="card-text"><%= lottery_info.lottery_type %></p>
+		<%= lottery_info.lottery_date %>
+		<%= lottery_info.purchase_cost %>
+		<%= lottery_info.lottery_number %>
+		<%= lottery_info.success_chance %>
+		<%= lottery_info.winning_amount %>
+	</div>
+</div>
+<% end %>
+
+
 <%= link_to 'Edit', edit_user_path(@user) %> |
 <%= link_to 'Back', users_path %>
