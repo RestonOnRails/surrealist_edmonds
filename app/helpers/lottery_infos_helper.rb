@@ -1,0 +1,2 @@
+module LotteryInfosHelper
+end

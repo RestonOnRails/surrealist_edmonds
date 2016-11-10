@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  store: MyString
+  lottery_type: MyString
+  lottery_date: 2016-11-09
+  purchase_cost: 1
+  lottery_number: MyString
+
+two:
+  user: two
+  store: MyString
+  lottery_type: MyString
+  lottery_date: 2016-11-09
+  purchase_cost: 1
+  lottery_number: MyString

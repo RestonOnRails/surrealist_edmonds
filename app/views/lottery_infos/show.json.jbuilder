@@ -1,0 +1,1 @@
+json.partial! "lottery_infos/lottery_info", lottery_info: @lottery_info
