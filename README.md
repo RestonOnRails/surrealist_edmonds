@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tired of working? edmonds apps got you covered.
 
-Things you may want to cover:
+Add all your fake IDs into our user screen. You'll then be able to enter all your info into our handy UI and edmonds
+will help you hustle your way to a fortune provided by your favourite (or most hated) state.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
